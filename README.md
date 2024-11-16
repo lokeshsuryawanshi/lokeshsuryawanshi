@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Lokeshsuryawanshi<br>👀 A FullStack Developer focusing on web and AI applications.<br>💡 I’m looking to collaborate on innovative projects at any skill level.<br>📫 How to reach me - lokeshsuryawanshi2420@gmail.com<br>
+Hi, I’m @Lokeshsuryawanshi<br>A FullStack Developer focusing on web and AI applications.<br>I’m looking to collaborate on innovative projects at any skill level.<br>📫 How to reach me - lokeshsuryawanshi2420@gmail.com<br>
 
 
 ## 🌐 Socials:
