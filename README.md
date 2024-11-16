@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Lokeshsuryawanshi<br>👀 I’m interested in web development and AI technologies.<br>🌱 I’m currently learning NextJS and TypeScript.<br>💡 I’m looking to collaborate on innovative projects at any skill level.<br>📫 How to reach me - lokeshsuryawanshi2420@gmail.com<br>🔭 I'm currently working on: Enhancing user experience @ Mitwa AI || Intern @ Hydro Health. 
+👋 Hi, I’m @Lokeshsuryawanshi<br>👀 A FullStack Developer focusing on web and AI applications.<br>💡 I’m looking to collaborate on innovative projects at any skill level.<br>📫 How to reach me - lokeshsuryawanshi2420@gmail.com<br>
 
 
 ## 🌐 Socials:
